@@ -1,5 +1,5 @@
-.intro {
+.places {
 display: flex;
 flex-direction: column;
-margin: 114px auto 0 148px;
+align-items: center;
 }
