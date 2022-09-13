@@ -1,5 +1,4 @@
 .place__title {
-    grid-area: title;
     word-wrap: break-word;
     font-size: 72px;
     font-weight: 900;
