@@ -7,5 +7,9 @@ max-width: 100%;
 padding-top: 62.5%;
 text-align: center;
 position: relative;
+transition: opacity .3s ease-in-out;
+}
+.cover__background:hover {
+    opacity: 0.3;
 }
 
