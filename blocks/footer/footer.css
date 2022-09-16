@@ -1,12 +1,12 @@
 .footer {
-    width: calc(100%-96px);
+    width: calc(100% - 96px);
     padding: 0 48px 24px;
     display: flex;
 }
 
 @media screen and (max-width:768px) {
     .footer {
-        width: calc(100%-48px);
+        width: calc(100% - 48px);
         padding-left: 24px;
     }
     
@@ -15,7 +15,7 @@
 @media (min-width:320px) and (max-width:767px) {
     .footer {
         flex-direction: column;
-        width: calc(100%-48px);
+        width: calc(100% - 48px);
         padding-left: 16px;
     }
     
