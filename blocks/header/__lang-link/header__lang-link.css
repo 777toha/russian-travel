@@ -4,9 +4,13 @@ color: #fff;
 font-size: 24px;
 line-height: 28px;
 font-weight: 400;
+margin: 0;
+transition: linear .3s ease-in-out;
 }
 .header__lang-link:first-child {
     margin-right: 17px;
+}
+.header__lang-link:hover {
     box-shadow: 0 1px 0 0 white;
 }
 
